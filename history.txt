@@ -1,0 +1,85 @@
+
+
+Dec 30 Class Commands updated
+
+
+    1  ping google.com
+    2  sudo apt-get update
+    3  sudo apt-get install git-all
+    4  git
+    5  git clone https://github.com/bravealikhatri/Devops_Dec30.githttps://github.com/bravealikhatri/Devops_Dec30.git
+    6  git clone https://github.com/bravealikhatri/Devops_Dec30.git
+    7  ls - lah
+    8  ls -lah
+    9  cd Devops_Dec30/
+   10  pwd
+   11  branch
+   12  vim README.md 
+   13  git status
+   14  pwd
+   15  apt install rheolef
+   16  git checkout --README.md
+   17  git status
+   18  git checkout -- README.md
+   19  git status
+   20  vim README.md 
+   21  git status
+   22  git add README.md 
+   23  Git status
+   24  git status
+   25  vim README.md 
+   26  git add README.md 
+   27  git status
+   28  git commit -m "Author and change1 Added"
+   29  https://github.com/bravealikhatri/Devops_Dec30.git "braveali@gmail.com
+
+   30  git config --global user.email "braveali@gmail.com"
+   31  git config --global user.name "Bahadur Ali"
+   32  git status
+   33  git commit -m "Author and Change 1 Added"
+   34  git status
+   35  git push
+   36  cd..
+   37  cd.
+   38  cd..
+   39  ccd!
+   40  cd~
+   41  cd\
+   42  pwd
+   43  ls - lah
+   44  ls -lah
+   45  cd .ssh
+   46  ls -lah
+   47  cat authorized_keys 
+   48  ssh-keygen
+   49  ls - lha
+   50  ls -lha
+   51  car id_rsa
+   52  cat id_rsa
+   53  cat id_rsa.pub 
+   54  cd~
+   55  cd ~
+   56  clone git git@github.com:bravealikhatri/Devops_Dec30.git
+   57  git clone git@github.com:bravealikhatri/Devops_Dec30.gitgit@github.com:bravealikhatri/Devops_Dec30.git
+   58  git clone git@github.com:bravealikhatri/Devops_Dec30.git
+   59  rm -fr Devops_Dec30/
+   60  git clone git@github.com:bravealikhatri/Devops_Dec30.git
+   61  ls -lha
+   62  cd Devops_Dec30/
+   63  vim README.md 
+   64  git commit -m "Author and change 1 Added"
+   65  git add README.md 
+   66  git status
+   67  git commit -m "Author and change 1 Added"
+   68  git push
+   69  vim README.md 
+   70  clear
+   71  git branch
+   72  git checkout -b dec30
+   73  git brach
+   74  git branch
+   75  git status
+   76  history
+   77  ls -lah
+   78  clear
+   79  history > history.txt
