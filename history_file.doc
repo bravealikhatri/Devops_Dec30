@@ -1,0 +1,122 @@
+    1  ping google.com
+    2  sudo apt-get update
+    3  sudo apt-get install git-all
+    4  git
+    5  git clone https://github.com/bravealikhatri/Devops_Dec30.githttps://github.com/bravealikhatri/Devops_Dec30.git
+    6  git clone https://github.com/bravealikhatri/Devops_Dec30.git
+    7  ls - lah
+    8  ls -lah
+    9  cd Devops_Dec30/
+   10  pwd
+   11  branch
+   12  vim README.md 
+   13  git status
+   14  pwd
+   15  apt install rheolef
+   16  git checkout --README.md
+   17  git status
+   18  git checkout -- README.md
+   19  git status
+   20  vim README.md 
+   21  git status
+   22  git add README.md 
+   23  Git status
+   24  git status
+   25  vim README.md 
+   26  git add README.md 
+   27  git status
+   28  git commit -m "Author and change1 Added"
+   29  https://github.com/bravealikhatri/Devops_Dec30.git "braveali@gmail.com
+   30  git config --global user.email "braveali@gmail.com"
+   31  git config --global user.name "Bahadur Ali"
+   32  git status
+   33  git commit -m "Author and Change 1 Added"
+   34  git status
+   35  git push
+   36  cd..
+   37  cd.
+   38  cd..
+   39  ccd!
+   40  cd~
+   41  cd\
+   42  pwd
+   43  ls - lah
+   44  ls -lah
+   45  cd .ssh
+   46  ls -lah
+   47  cat authorized_keys 
+   48  ssh-keygen
+   49  ls - lha
+   50  ls -lha
+   51  car id_rsa
+   52  cat id_rsa
+   53  cat id_rsa.pub 
+   54  cd~
+   55  cd ~
+   56  clone git git@github.com:bravealikhatri/Devops_Dec30.git
+   57  git clone git@github.com:bravealikhatri/Devops_Dec30.gitgit@github.com:bravealikhatri/Devops_Dec30.git
+   58  git clone git@github.com:bravealikhatri/Devops_Dec30.git
+   59  rm -fr Devops_Dec30/
+   60  git clone git@github.com:bravealikhatri/Devops_Dec30.git
+   61  ls -lha
+   62  cd Devops_Dec30/
+   63  vim README.md 
+   64  git commit -m "Author and change 1 Added"
+   65  git add README.md 
+   66  git status
+   67  git commit -m "Author and change 1 Added"
+   68  git push
+   69  vim README.md 
+   70  clear
+   71  git branch
+   72  git checkout -b dec30
+   73  git brach
+   74  git branch
+   75  git status
+   76  history
+   77  ls -lah
+   78  clear
+   79  history > history.txt
+   80  ls - lah
+   81  ls -lah
+   82  vim history.txt
+   83  git checkout -b ClassDec30
+   84  git status
+   85  git add
+   86  git add history.txt 
+   87  git commit -m "history of commands"
+   88  git status
+   89  push
+   90  git push
+   91  git push --set-upstream origin ClassDec30
+   92  git status
+   93  clear
+   94  status
+   95  git status
+   96  ls -lah
+   97  git pull 
+   98  git branch 
+   99  ls -lah
+  100  vim history.txt 
+  101  history
+  102  vim history.txt 
+  103  git update
+  104  git status
+  105  git add
+  106  git add history.txt 
+  107  git status
+  108  git commit -m "Added new History Commands"
+  109  git status
+  110  git push
+  111  cd ~
+  112  Pwd
+  113  pwd
+  114  sudo apt install tree
+  115  tree
+  116  exit
+  117  clear 
+  118  git status
+  119  ls -lah
+  120  cd Devops_Dec30/
+  121  git status
+  122  history > history_file.doc
