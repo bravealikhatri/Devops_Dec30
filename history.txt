@@ -83,3 +83,25 @@ Dec 30 Class Commands updated
    77  ls -lah
    78  clear
    79  history > history.txt
+   80  ls - lah
+   81  ls -lah
+   82  vim history.txt
+   83  git checkout -b ClassDec30
+   84  git status
+   85  git add
+   86  git add history.txt
+   87  git commit -m "history of commands"
+   88  git status
+   89  push
+   90  git push
+   91  git push --set-upstream origin ClassDec30 #
+   92  git status
+   93  clear
+   94  status
+   95  git status
+   96  ls -lah
+   97  git pull  # get update from github update
+   98  git branch
+   99  ls -lah
+  100  vim history.txt
+  101  history
